@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Kranthi2031/Java-Coding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Kranthi2031/Java-Coding/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Kranthi2031/Java-Coding/tree/master/0409-longest-palindrome) |
+| [0583-delete-operation-for-two-strings](https://github.com/Kranthi2031/Java-Coding/tree/master/0583-delete-operation-for-two-strings) |
 | [2325-decode-the-message](https://github.com/Kranthi2031/Java-Coding/tree/master/2325-decode-the-message) |
 ## Counting
 |  |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Kranthi2031/Java-Coding/tree/master/0072-edit-distance) |
+| [0583-delete-operation-for-two-strings](https://github.com/Kranthi2031/Java-Coding/tree/master/0583-delete-operation-for-two-strings) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Kranthi2031/Java-Coding/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
