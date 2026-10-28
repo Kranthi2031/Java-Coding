@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Kranthi2031/Java-Coding/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Kranthi2031/Java-Coding/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Kranthi2031/Java-Coding/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Kranthi2031/Java-Coding/tree/master/0409-longest-palindrome) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kranthi2031/Java-Coding/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Kranthi2031/Java-Coding/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Kranthi2031/Java-Coding/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
